@@ -6,5 +6,5 @@ Collection of projects based on different machine learning algorithms.
 3. **Polynomial Regression**: A simple Polynomial Regression model used to predict **Quality rating** of a manufacturing process based on features **Temperature (°C),Pressure (kPa),Temperature x Pressure,Material Fusion Metric,Material Transformation Metric** using pipeline of *StandardScaler* and *PolynomialFeatures* *(manufacturing dataset)*
 
 
-Remember to install the required libraries given in require before running the projects: 
+Remember to install the required libraries given in require before running the projects:  
 Run in terminal:```pip install -r requirements.txt```
